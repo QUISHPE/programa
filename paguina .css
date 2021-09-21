@@ -1,0 +1,143 @@
+body{
+min-height: 100vh;
+margin: 0;
+background: linear-gradient(#c38bbf,#800080);
+}
+.fondo{
+width:1200px ;
+height:450px ;
+background: linear-gradient(#7E43B1,#3e104b);
+left:40px ;
+position: absolute;
+top:60px ;
+border-radius:20px 20px 20px 20px ;
+z-index: -1;
+}
+.rectangulo1{
+width:220px ;
+height:330px ;
+background-color: white;    
+position: absolute;
+left:250px ;
+top:130px ;
+border-radius:20px 20px 20px 20px ;
+border-color: black;
+border-style:solid;
+z-index: -1;
+
+}
+.rectangulo1 h1{
+text-align: center;    
+}
+
+.rectangulo2{
+width:240px ;
+height:380px ;
+background-color: white;    
+position: absolute;
+left:450px ;
+top:100px ;
+border-radius:20px 20px 20px 20px ;
+border-color: black;
+border-style:solid;
+z-index:-1;
+}
+.rectangulo3{
+width:220px ;
+height:330px ;
+background-color: white;    
+position: absolute;
+left:690px ;
+top:130px ;
+border-radius:20px 20px 20px 20px ;  
+border-color: black;
+border-style:solid ;
+z-index: -1;
+}
+.comida{
+width:100px ;
+height:100px ;
+z-index:1;    
+border-radius:100px ;
+left:300px ;
+position: absolute;
+top:150px ;
+}
+.com{
+width:100px ;
+height:100px ;
+z-index:1;    
+border-radius:100px ;
+left:520px ;
+position: absolute;
+top:140px ;    
+}
+.otro{
+width:100px ;
+height:100px ;
+z-index:1;    
+border-radius:100px ;
+left:750px ;
+position: absolute;
+top:150px ;    
+
+}
+.textorectangulo1{
+position: relative;
+color:#c38bbf;
+top:250px;
+left: 300px;
+ }
+.textorectangulo2{
+position: relative;
+color:#c38bbf;
+top:200px;
+left: 540px;
+ }
+.textorectangulo3{
+position: relative;
+color:#c38bbf;
+top:150px;
+left: 750px;
+}
+.inicio{
+position: relative;
+color:black;
+top:150px;
+left: 258px;    
+}
+.texto2{
+position: relative;
+color:black;
+top:60px;
+left: 460px;
+} 
+.texto{
+position: relative;
+color:black;
+top:-30px;
+left:700px;
+} 
+.precio1{
+position: relative;
+color:#c38bbf;
+top:-50px;
+left: 300px;    
+}
+.precio2{
+position: relative;
+color:#c38bbf;
+top:-80px;
+left: 530px;    
+
+}
+.precio3{
+position: relative;
+color:#c38bbf;
+top:-150px;
+left: 750px;
+}     
+
+
+
+
